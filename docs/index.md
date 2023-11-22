@@ -8,6 +8,14 @@ A collection of Warhammer 40k 10th edition faction index cards. Rehosted here si
 
 [Adepta Sororitas](/index/adepta_sororitas.pdf)
 
+[Adeptus Astartes](/index/adeptus_astartes.pdf)
+
+* [Black Templar](/index/black_templar.pdf)
+* [Blood Angels](/index/blood_angels.pdf)
+* [Dark Angels](/index/dark_angels.pdf)
+* [Deathwatch](/index/deathwatch.pdf)
+* [Space Wolves](/index/space_wolves.pdf)
+
 [Adeptus Custodes](/index/adeptus_custodes.pdf)
 
 [Adeptus Mechanicus](/index/adeptus_mechanicus.pdf)
@@ -17,14 +25,6 @@ A collection of Warhammer 40k 10th edition faction index cards. Rehosted here si
 [Grey Knights](/index/grey_knights.pdf)
 
 [Imperial Knights](/index/imperial_knights.pdf)
-
-[Space Marines](/index/space_marines.pdf)
-
-* [Black Templar](/index/black_templar.pdf)
-* [Blood Angels](/index/blood_angels.pdf)
-* [Dark Angels](/index/dark_angels.pdf)
-* [Deathwatch](/index/deathwatch.pdf)
-* [Space Wolves](/index/space_wolves.pdf)
 
 [Agents of the Imperium](/index/agents_of_the_imperium.pdf)
 
