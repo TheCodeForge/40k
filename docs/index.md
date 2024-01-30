@@ -4,6 +4,8 @@ title: Warhammer 40k Faction Indexes
 
 A collection of Warhammer 40k 10th edition faction index cards. Rehosted here since GW is being silly and removing indexes as codexes are released.
 
+[Errata](/index/index_errata.pdf)
+
 ## The Imperium of Man
 
 [Adepta Sororitas](/index/adepta_sororitas.pdf)
