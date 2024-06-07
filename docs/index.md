@@ -4,7 +4,7 @@ title: Warhammer 40k Faction Indexes
 
 A collection of Warhammer 40k 10th edition faction index cards. Rehosted here since GW is being silly and removing indexes as codexes are released.
 
-Last updated 30 Jan 2024
+Last updated 29 May 2024
 
 [Errata](/index/index_errata.pdf)
 
@@ -39,6 +39,8 @@ Last updated 30 Jan 2024
 [Chaos Knights](/index/chaos_knights.pdf)
 
 [Chaos Space Marines](/index/chaos_space_marines.pdf)
+
+* [Emperor's Children - Chosen of Slaanesh](/index/emperors_children.pdf)
 
 [Death Guard](/index/death_guard.pdf)
 
