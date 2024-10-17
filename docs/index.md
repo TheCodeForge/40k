@@ -4,7 +4,7 @@ title: Warhammer 40k Faction Indexes
 
 A collection of Warhammer 40k 10th edition faction index cards. Rehosted here since GW is being silly and removing indexes as codexes are released.
 
-Last updated 29 May 2024
+Last updated 16 Oct 2024
 
 [Errata](/index/index_errata.pdf)
 
